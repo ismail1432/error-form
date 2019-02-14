@@ -3,6 +3,8 @@
 
 `cd project` 
 
+`composer install`
+
 Edit `.env` for database credentials
 
 `php bin/console d:d:c`
